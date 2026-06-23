@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_778422ee197bde5d6927d16aff8dcddf {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_778422ee197bde5d6927d16aff8dcddf" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_778422ee197bde5d6927d16aff8dcddf = L.map(
+                "map_778422ee197bde5d6927d16aff8dcddf",
+                {
+                    center: [19.3207722, -99.1514678],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a8b2d8f118fb61a37421c988ffa1aca7 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_a8b2d8f118fb61a37421c988ffa1aca7.addTo(map_778422ee197bde5d6927d16aff8dcddf);
+        
+    
+            var marker_a9f93f611e3228f89d8e5698d41910b3 = L.marker(
+                [19.3207722, -99.1514678],
+                {
+}
+            ).addTo(map_778422ee197bde5d6927d16aff8dcddf);
+        
+    
+        var popup_86592ad6417b3ab0230651105b26c603 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2ce0cf891541e4ce1d36c75d349f3f67 = $(`<div id="html_2ce0cf891541e4ce1d36c75d349f3f67" style="width: 100.0%; height: 100.0%;">+526636334933<br>México</div>`)[0];
+                popup_86592ad6417b3ab0230651105b26c603.setContent(html_2ce0cf891541e4ce1d36c75d349f3f67);
+            
+        
+
+        marker_a9f93f611e3228f89d8e5698d41910b3.bindPopup(popup_86592ad6417b3ab0230651105b26c603)
+        ;
+
+        
+    
+    
+            marker_a9f93f611e3228f89d8e5698d41910b3.bindTooltip(
+                `<div>
+                     Centro aproximado de la localidad
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_3b1d0cda127947b4a71b0f2a2a4f2e8f = L.circle(
+                [19.3207722, -99.1514678],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "red", "fillOpacity": 0.1, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5000, "stroke": true, "weight": 3}
+            ).addTo(map_778422ee197bde5d6927d16aff8dcddf);
+        
+    
+        var popup_9ff0696a4da8d931ca6ab9d43cfd1464 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ebfe83db263c8e1fc819d7753a00426a = $(`<div id="html_ebfe83db263c8e1fc819d7753a00426a" style="width: 100.0%; height: 100.0%;">Area aproximada</div>`)[0];
+                popup_9ff0696a4da8d931ca6ab9d43cfd1464.setContent(html_ebfe83db263c8e1fc819d7753a00426a);
+            
+        
+
+        circle_3b1d0cda127947b4a71b0f2a2a4f2e8f.bindPopup(popup_9ff0696a4da8d931ca6ab9d43cfd1464)
+        ;
+
+        
+    
+</script>
+</html>

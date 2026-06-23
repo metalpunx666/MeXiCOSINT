@@ -1,0 +1,75 @@
+{
+  "scan_id": "MX-A931A7AA99",
+  "raw_input": "+526644131384",
+  "e164": "+526644131384",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6644131384",
+  "region_phonenumbers": "México",
+  "lada_region": "Tijuana, Baja California (area cercana Sonora)",
+  "abstract_data": {},
+  "numverify_data": {
+    "valid": true,
+    "local_format": "6644131384",
+    "international_format": "+526644131384",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "AT&T Comercializacion Movil S de RL de CV",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "526644131384",
+      "local_format": "6644131384",
+      "international_format": "+526644131384",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "AT&T Comercializacion Movil S de RL de CV",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "AT&T Comercializacion Movil S de RL de CV",
+  "abstract_line_type": "",
+  "numverify_line_type": "mobile",
+  "consensus_city": "México",
+  "consensus_confidence": 0.6,
+  "consensus_sources": [
+    "phonenumbers"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    }
+  ],
+  "latitude": 19.3207722,
+  "longitude": -99.1514678,
+  "nominatim_address": "Ciudad de México, México",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+526644131384",
+    "WhatsApp (wa.me)": "https://wa.me/+526644131384",
+    "Facebook": "https://www.facebook.com/search/top/?q=526644131384",
+    "Twitter/X": "https://twitter.com/search?q=526644131384",
+    "TikTok": "https://www.tiktok.com/search?q=526644131384",
+    "Truecaller": "https://www.truecaller.com/search/mx/526644131384",
+    "Google (exacto)": "https://www.google.com/search?q=%22526644131384%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526644131384",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526644131384",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6644131384",
+    "Formato E.164": "+526644131384"
+  },
+  "map_path": "",
+  "errors": [
+    "Map generation: No module named 'folium'"
+  ],
+  "scan_timestamp": "2026-06-22 00:23:39 UTC",
+  "scan_end_time": "2026-06-22 00:23:45 UTC",
+  "report_sha256": "5833a3c8c0e3c3843709dc57ad6893c8836412ceac8908c4c9eccca9737ed543"
+}

@@ -1,0 +1,136 @@
+{
+  "scan_id": "MX-8315A084B0",
+  "raw_input": "+527774446396",
+  "e164": "+527774446396",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "7774446396",
+  "region_phonenumbers": "Morelos",
+  "lada_region": "",
+  "abstract_data": {
+    "product": "Phone Intelligence",
+    "valid": true,
+    "international": "+52 777 444 6396",
+    "national": "777 444 6396",
+    "country": "Mexico",
+    "location": "Morelos",
+    "carrier": "",
+    "line_type": "unknown",
+    "risk_level": "low",
+    "raw": {
+      "phone_number": "+527774446396",
+      "phone_format": {
+        "international": "+52 777 444 6396",
+        "national": "777 444 6396"
+      },
+      "phone_carrier": {
+        "name": "",
+        "line_type": "unknown",
+        "mcc": "unknown",
+        "mnc": "unknown"
+      },
+      "phone_location": {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "country_prefix": "+52",
+        "region": null,
+        "city": "Morelos",
+        "timezone": "America/Mexico_City"
+      },
+      "phone_messaging": {
+        "sms_domain": "unknown",
+        "sms_email": "unknown"
+      },
+      "phone_validation": {
+        "is_valid": true,
+        "line_status": "active",
+        "is_voip": false,
+        "minimum_age": null
+      },
+      "phone_registration": {
+        "name": null,
+        "type": null
+      },
+      "phone_risk": {
+        "risk_level": "low",
+        "is_disposable": false,
+        "is_abuse_detected": false
+      },
+      "phone_breaches": {
+        "total_breaches": null,
+        "date_first_breached": null,
+        "date_last_breached": null,
+        "breached_domains": []
+      }
+    }
+  },
+  "numverify_data": {
+    "valid": true,
+    "local_format": "7774446396",
+    "international_format": "+527774446396",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "Radiomovil Dipsa SA de CV",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "527774446396",
+      "local_format": "7774446396",
+      "international_format": "+527774446396",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "Radiomovil Dipsa SA de CV",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "Morelos",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "Radiomovil Dipsa SA de CV",
+  "abstract_line_type": "unknown",
+  "numverify_line_type": "mobile",
+  "consensus_city": "Morelos",
+  "consensus_confidence": 0.95,
+  "consensus_sources": [
+    "phonenumbers",
+    "AbstractAPI"
+  ],
+  "all_votes": [
+    {
+      "city": "Morelos",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    },
+    {
+      "city": "Morelos",
+      "source": "AbstractAPI",
+      "confidence": 0.8,
+      "extra": ""
+    }
+  ],
+  "latitude": 18.75,
+  "longitude": -99.0,
+  "nominatim_address": "Morelos, México",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+527774446396",
+    "WhatsApp (wa.me)": "https://wa.me/+527774446396",
+    "Facebook": "https://www.facebook.com/search/top/?q=527774446396",
+    "Twitter/X": "https://twitter.com/search?q=527774446396",
+    "TikTok": "https://www.tiktok.com/search?q=527774446396",
+    "Truecaller": "https://www.truecaller.com/search/mx/527774446396",
+    "Google (exacto)": "https://www.google.com/search?q=%22527774446396%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20527774446396",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20527774446396",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/7774446396",
+    "Formato E.164": "+527774446396"
+  },
+  "map_path": "output/maps/mexicosint_map_527774446396_20260622_133057.html",
+  "errors": [],
+  "scan_timestamp": "2026-06-22 20:30:51 UTC",
+  "scan_end_time": "2026-06-22 20:30:58 UTC",
+  "report_sha256": "b7a51eaa70d795045680cb04a8efbb0d18657e8f4348ea3242ef951014437a49"
+}

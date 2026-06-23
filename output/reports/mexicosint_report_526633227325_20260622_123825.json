@@ -1,0 +1,77 @@
+{
+  "scan_id": "MX-5E5DB001AD",
+  "raw_input": "+526633227325",
+  "e164": "+526633227325",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6633227325",
+  "region_phonenumbers": "México",
+  "lada_region": "Tijuana, Baja California",
+  "abstract_data": {},
+  "numverify_data": {
+    "valid": true,
+    "local_format": "5512345678",
+    "international_format": "+525512345678",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "carrier": "Telcel",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "local_format": "5512345678",
+      "international_format": "+525512345678",
+      "country_name": "Mexico",
+      "country_code": "MX",
+      "location": "Mexico City",
+      "carrier": "Telcel",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "",
+  "numverify_location": "Mexico City",
+  "abstract_carrier": "",
+  "numverify_carrier": "Telcel",
+  "abstract_line_type": "",
+  "numverify_line_type": "mobile",
+  "consensus_city": "Mexico City",
+  "consensus_confidence": 0.7,
+  "consensus_sources": [
+    "NumVerify"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    },
+    {
+      "city": "Mexico City",
+      "source": "NumVerify",
+      "confidence": 0.75,
+      "extra": ""
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "nominatim_address": "",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+526633227325",
+    "WhatsApp (wa.me)": "https://wa.me/+526633227325",
+    "Facebook": "https://www.facebook.com/search/top/?q=526633227325",
+    "Twitter/X": "https://twitter.com/search?q=526633227325",
+    "TikTok": "https://www.tiktok.com/search?q=526633227325",
+    "Truecaller": "https://www.truecaller.com/search/mx/526633227325",
+    "Google (exacto)": "https://www.google.com/search?q=%22526633227325%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526633227325",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526633227325",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6633227325",
+    "Formato E.164": "+526633227325"
+  },
+  "map_path": "",
+  "errors": [],
+  "scan_timestamp": "2026-06-22 19:38:24 UTC",
+  "scan_end_time": "2026-06-22 19:38:25 UTC",
+  "report_sha256": "9f58cc467ee2b44add740f371bf247509761b92e92482599da39655390498333"
+}

@@ -1,0 +1,132 @@
+{
+  "scan_id": "MX-B346649451",
+  "raw_input": "+526633227325",
+  "e164": "+526633227325",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6633227325",
+  "region_phonenumbers": "México",
+  "lada_region": "",
+  "abstract_data": {
+    "product": "Phone Intelligence",
+    "valid": true,
+    "international": "+52 663 322 7325",
+    "national": "663 322 7325",
+    "country": "Mexico",
+    "location": "Mexico",
+    "carrier": "",
+    "line_type": "unknown",
+    "risk_level": "low",
+    "raw": {
+      "phone_number": "+526633227325",
+      "phone_format": {
+        "international": "+52 663 322 7325",
+        "national": "663 322 7325"
+      },
+      "phone_carrier": {
+        "name": "",
+        "line_type": "unknown",
+        "mcc": "unknown",
+        "mnc": "unknown"
+      },
+      "phone_location": {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "country_prefix": "+52",
+        "region": null,
+        "city": "Mexico",
+        "timezone": "America/Mexico_City"
+      },
+      "phone_messaging": {
+        "sms_domain": "unknown",
+        "sms_email": "unknown"
+      },
+      "phone_validation": {
+        "is_valid": true,
+        "line_status": "active",
+        "is_voip": false,
+        "minimum_age": null
+      },
+      "phone_registration": {
+        "name": null,
+        "type": null
+      },
+      "phone_risk": {
+        "risk_level": "low",
+        "is_disposable": false,
+        "is_abuse_detected": false
+      },
+      "phone_breaches": {
+        "total_breaches": null,
+        "date_first_breached": null,
+        "date_last_breached": null,
+        "breached_domains": []
+      }
+    }
+  },
+  "numverify_data": {
+    "valid": true,
+    "local_format": "6633227325",
+    "international_format": "+526633227325",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "Agregadora de Inteligencia en Negocios Tecnologicos SA de CV (Addinteli)",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "526633227325",
+      "local_format": "6633227325",
+      "international_format": "+526633227325",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "Agregadora de Inteligencia en Negocios Tecnologicos SA de CV (Addinteli)",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "Mexico",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "Agregadora de Inteligencia en Negocios Tecnologicos SA de CV (Addinteli)",
+  "abstract_line_type": "unknown",
+  "numverify_line_type": "mobile",
+  "consensus_city": "México",
+  "consensus_confidence": 0.6,
+  "consensus_sources": [
+    "phonenumbers"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "nominatim_address": "",
+  "opencage_latitude": null,
+  "opencage_longitude": null,
+  "opencage_address": "",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+526633227325",
+    "WhatsApp (wa.me)": "https://wa.me/+526633227325",
+    "Facebook": "https://www.facebook.com/search/top/?q=526633227325",
+    "Twitter/X": "https://twitter.com/search?q=526633227325",
+    "TikTok": "https://www.tiktok.com/search?q=526633227325",
+    "Truecaller": "https://www.truecaller.com/search/mx/526633227325",
+    "Google (exacto)": "https://www.google.com/search?q=%22526633227325%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526633227325",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526633227325",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6633227325",
+    "Formato E.164": "+526633227325"
+  },
+  "map_path": "",
+  "errors": [],
+  "scan_timestamp": "2026-06-23 13:09:31 UTC",
+  "scan_end_time": "2026-06-23 13:09:34 UTC",
+  "report_sha256": "1e229b319d5d649a81bbe28879dd70138af049551ae21a98f2edb01cc31e61a7"
+}

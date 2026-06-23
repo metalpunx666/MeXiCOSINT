@@ -1,0 +1,73 @@
+{
+  "scan_id": "MX-6B674B42C4",
+  "raw_input": "+526642187359",
+  "e164": "+526642187359",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6642187359",
+  "region_phonenumbers": "México",
+  "lada_region": "Tijuana, Baja California (area cercana Sonora)",
+  "abstract_data": {},
+  "numverify_data": {
+    "valid": true,
+    "local_format": "6642187359",
+    "international_format": "+526642187359",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "Radiomovil Dipsa SA de CV",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "526642187359",
+      "local_format": "6642187359",
+      "international_format": "+526642187359",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "Radiomovil Dipsa SA de CV",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "Radiomovil Dipsa SA de CV",
+  "abstract_line_type": "",
+  "numverify_line_type": "mobile",
+  "consensus_city": "México",
+  "consensus_confidence": 0.6,
+  "consensus_sources": [
+    "phonenumbers"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    }
+  ],
+  "latitude": 19.3207722,
+  "longitude": -99.1514678,
+  "nominatim_address": "Ciudad de México, México",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+526642187359",
+    "WhatsApp (wa.me)": "https://wa.me/+526642187359",
+    "Facebook": "https://www.facebook.com/search/top/?q=526642187359",
+    "Twitter/X": "https://twitter.com/search?q=526642187359",
+    "TikTok": "https://www.tiktok.com/search?q=526642187359",
+    "Truecaller": "https://www.truecaller.com/search/mx/526642187359",
+    "Google (exacto)": "https://www.google.com/search?q=%22526642187359%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526642187359",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526642187359",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6642187359",
+    "Formato E.164": "+526642187359"
+  },
+  "map_path": "output/maps/mexicosint_map_526642187359_20260618_230215.html",
+  "errors": [],
+  "scan_timestamp": "2026-06-19 06:02:10 UTC",
+  "scan_end_time": "2026-06-19 06:02:16 UTC",
+  "report_sha256": "435a996ccf770fceea1a6fca43900e67b6195ea42df62242500b72df67719dda"
+}

@@ -1,0 +1,75 @@
+{
+  "scan_id": "MX-6F021477F1",
+  "raw_input": "526646037880",
+  "e164": "+526646037880",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6646037880",
+  "region_phonenumbers": "México",
+  "lada_region": "Tijuana, Baja California (area cercana Sonora)",
+  "abstract_data": {},
+  "numverify_data": {
+    "valid": true,
+    "local_format": "6646037880",
+    "international_format": "+526646037880",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "Radiomovil Dipsa SA de CV",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "526646037880",
+      "local_format": "6646037880",
+      "international_format": "+526646037880",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "Radiomovil Dipsa SA de CV",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "Radiomovil Dipsa SA de CV",
+  "abstract_line_type": "",
+  "numverify_line_type": "mobile",
+  "consensus_city": "México",
+  "consensus_confidence": 0.6,
+  "consensus_sources": [
+    "phonenumbers"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    }
+  ],
+  "latitude": 19.3207722,
+  "longitude": -99.1514678,
+  "nominatim_address": "Ciudad de México, México",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+526646037880",
+    "WhatsApp (wa.me)": "https://wa.me/+526646037880",
+    "Facebook": "https://www.facebook.com/search/top/?q=526646037880",
+    "Twitter/X": "https://twitter.com/search?q=526646037880",
+    "TikTok": "https://www.tiktok.com/search?q=526646037880",
+    "Truecaller": "https://www.truecaller.com/search/mx/526646037880",
+    "Google (exacto)": "https://www.google.com/search?q=%22526646037880%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526646037880",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526646037880",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6646037880",
+    "Formato E.164": "+526646037880"
+  },
+  "map_path": "",
+  "errors": [
+    "Map generation: No module named 'folium'"
+  ],
+  "scan_timestamp": "2026-06-19 05:13:27 UTC",
+  "scan_end_time": "2026-06-19 05:13:31 UTC",
+  "report_sha256": "14ae4c77db986e0c3e100e797125190b212e41cc2c892a152c11eb3a5189a6c8"
+}

@@ -1,0 +1,79 @@
+{
+  "scan_id": "MX-9013CD5CE3",
+  "raw_input": "+524499559931",
+  "e164": "+524499559931",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "4499559931",
+  "region_phonenumbers": "Aguascalientes/Jesús María, AGS",
+  "lada_region": "Aguascalientes, Aguascalientes (area cercana Queretaro)",
+  "abstract_data": {},
+  "numverify_data": {
+    "valid": true,
+    "local_format": "4499559931",
+    "international_format": "+524499559931",
+    "country": "Mexico",
+    "location": "North",
+    "carrier": "",
+    "line_type": "landline",
+    "raw": {
+      "valid": true,
+      "number": "524499559931",
+      "local_format": "4499559931",
+      "international_format": "+524499559931",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "North",
+      "carrier": "",
+      "line_type": "landline"
+    }
+  },
+  "abstract_location": "",
+  "numverify_location": "North",
+  "abstract_carrier": "",
+  "numverify_carrier": "",
+  "abstract_line_type": "",
+  "numverify_line_type": "landline",
+  "consensus_city": "North",
+  "consensus_confidence": 0.7,
+  "consensus_sources": [
+    "NumVerify"
+  ],
+  "all_votes": [
+    {
+      "city": "Aguascalientes/Jesús María, AGS",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    },
+    {
+      "city": "North",
+      "source": "NumVerify",
+      "confidence": 0.75,
+      "extra": ""
+    }
+  ],
+  "latitude": 31.6436824,
+  "longitude": -106.4548448,
+  "nominatim_address": "Calle Armada De México, North Gate, Ciudad Juárez, Juárez, Chihuahua, 32674, México",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+524499559931",
+    "WhatsApp (wa.me)": "https://wa.me/+524499559931",
+    "Facebook": "https://www.facebook.com/search/top/?q=524499559931",
+    "Twitter/X": "https://twitter.com/search?q=524499559931",
+    "TikTok": "https://www.tiktok.com/search?q=524499559931",
+    "Truecaller": "https://www.truecaller.com/search/mx/524499559931",
+    "Google (exacto)": "https://www.google.com/search?q=%22524499559931%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20524499559931",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20524499559931",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/4499559931",
+    "Formato E.164": "+524499559931"
+  },
+  "map_path": "output/maps/mexicosint_map_524499559931_20260618_221538.html",
+  "errors": [],
+  "scan_timestamp": "2026-06-19 05:15:30 UTC",
+  "scan_end_time": "2026-06-19 05:15:39 UTC",
+  "report_sha256": "6122a59af3e0c1466df922d56e6a70b1af91dc3697e95367725636c60079cfcc"
+}

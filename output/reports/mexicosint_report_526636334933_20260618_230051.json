@@ -1,0 +1,73 @@
+{
+  "scan_id": "MX-9D67C7B397",
+  "raw_input": "+526636334933",
+  "e164": "+526636334933",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6636334933",
+  "region_phonenumbers": "México",
+  "lada_region": "Hermosillo, Sonora (overlay)",
+  "abstract_data": {},
+  "numverify_data": {
+    "valid": true,
+    "local_format": "6636334933",
+    "international_format": "+526636334933",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "FreedomPop Mexico SA de CV",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "526636334933",
+      "local_format": "6636334933",
+      "international_format": "+526636334933",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "FreedomPop Mexico SA de CV",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "FreedomPop Mexico SA de CV",
+  "abstract_line_type": "",
+  "numverify_line_type": "mobile",
+  "consensus_city": "México",
+  "consensus_confidence": 0.6,
+  "consensus_sources": [
+    "phonenumbers"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    }
+  ],
+  "latitude": 19.3207722,
+  "longitude": -99.1514678,
+  "nominatim_address": "Ciudad de México, México",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+526636334933",
+    "WhatsApp (wa.me)": "https://wa.me/+526636334933",
+    "Facebook": "https://www.facebook.com/search/top/?q=526636334933",
+    "Twitter/X": "https://twitter.com/search?q=526636334933",
+    "TikTok": "https://www.tiktok.com/search?q=526636334933",
+    "Truecaller": "https://www.truecaller.com/search/mx/526636334933",
+    "Google (exacto)": "https://www.google.com/search?q=%22526636334933%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526636334933",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526636334933",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6636334933",
+    "Formato E.164": "+526636334933"
+  },
+  "map_path": "output/maps/mexicosint_map_526636334933_20260618_230051.html",
+  "errors": [],
+  "scan_timestamp": "2026-06-19 06:00:45 UTC",
+  "scan_end_time": "2026-06-19 06:00:51 UTC",
+  "report_sha256": "a08e45c3bf191281c95b812a29b802f668c44c128ee7fcd4ec996f4d0766c71c"
+}

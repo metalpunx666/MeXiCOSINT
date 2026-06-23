@@ -1,0 +1,138 @@
+{
+  "scan_id": "MX-AED536BBA5",
+  "raw_input": "+527721161797",
+  "e164": "+527721161797",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "7721161797",
+  "region_phonenumbers": "Actopan, HGO",
+  "lada_region": "Pachuca, Hidalgo (overlay)",
+  "abstract_data": {
+    "product": "Phone Intelligence",
+    "valid": true,
+    "international": "+52 772 116 1797",
+    "national": "772 116 1797",
+    "country": "Mexico",
+    "location": "Actopan",
+    "carrier": "",
+    "line_type": "unknown",
+    "risk_level": "low",
+    "raw": {
+      "phone_number": "+527721161797",
+      "phone_format": {
+        "international": "+52 772 116 1797",
+        "national": "772 116 1797"
+      },
+      "phone_carrier": {
+        "name": "",
+        "line_type": "unknown",
+        "mcc": "unknown",
+        "mnc": "unknown"
+      },
+      "phone_location": {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "country_prefix": "+52",
+        "region": "HGO",
+        "city": "Actopan",
+        "timezone": "America/Mexico_City"
+      },
+      "phone_messaging": {
+        "sms_domain": "unknown",
+        "sms_email": "unknown"
+      },
+      "phone_validation": {
+        "is_valid": true,
+        "line_status": "active",
+        "is_voip": false,
+        "minimum_age": null
+      },
+      "phone_registration": {
+        "name": null,
+        "type": null
+      },
+      "phone_risk": {
+        "risk_level": "low",
+        "is_disposable": false,
+        "is_abuse_detected": false
+      },
+      "phone_breaches": {
+        "total_breaches": null,
+        "date_first_breached": null,
+        "date_last_breached": null,
+        "breached_domains": []
+      }
+    }
+  },
+  "numverify_data": {
+    "valid": true,
+    "local_format": "7721161797",
+    "international_format": "+527721161797",
+    "country": "Mexico",
+    "location": "",
+    "carrier": "Agregadora de Inteligencia en Negocios Tecnologicos SA de CV (Addinteli)",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "number": "527721161797",
+      "local_format": "7721161797",
+      "international_format": "+527721161797",
+      "country_prefix": "+52",
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "location": "",
+      "carrier": "Agregadora de Inteligencia en Negocios Tecnologicos SA de CV (Addinteli)",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "Actopan",
+  "numverify_location": "",
+  "abstract_carrier": "",
+  "numverify_carrier": "Agregadora de Inteligencia en Negocios Tecnologicos SA de CV (Addinteli)",
+  "abstract_line_type": "unknown",
+  "numverify_line_type": "mobile",
+  "consensus_city": "Actopan",
+  "consensus_confidence": 0.7,
+  "consensus_sources": [
+    "AbstractAPI"
+  ],
+  "all_votes": [
+    {
+      "city": "Actopan, HGO",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    },
+    {
+      "city": "Actopan",
+      "source": "AbstractAPI",
+      "confidence": 0.8,
+      "extra": ""
+    }
+  ],
+  "latitude": 19.5609208,
+  "longitude": -96.5291228,
+  "nominatim_address": "",
+  "opencage_latitude": 19.5609208,
+  "opencage_longitude": -96.5291228,
+  "opencage_address": "91490, VER, Mexico",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=+527721161797",
+    "WhatsApp (wa.me)": "https://wa.me/+527721161797",
+    "Facebook": "https://www.facebook.com/search/top/?q=527721161797",
+    "Twitter/X": "https://twitter.com/search?q=527721161797",
+    "TikTok": "https://www.tiktok.com/search?q=527721161797",
+    "Truecaller": "https://www.truecaller.com/search/mx/527721161797",
+    "Google (exacto)": "https://www.google.com/search?q=%22527721161797%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20527721161797",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20527721161797",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/7721161797",
+    "Formato E.164": "+527721161797"
+  },
+  "map_path": "output/maps/mexicosint_map_527721161797_20260622_143321.html",
+  "errors": [],
+  "scan_timestamp": "2026-06-22 21:33:15 UTC",
+  "scan_end_time": "2026-06-22 21:33:21 UTC",
+  "report_sha256": "a520cdbc9b3067ec6821b92f51d79a17197564559d7205126448c49bf7d555d4"
+}

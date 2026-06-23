@@ -1,0 +1,128 @@
+{
+  "scan_id": "MX-DD299266DB",
+  "raw_input": "+526633227325",
+  "e164": "+526633227325",
+  "valid": true,
+  "country_code": "+52",
+  "national_number": "6633227325",
+  "region_phonenumbers": "México",
+  "lada_region": "",
+  "abstract_data": {
+    "product": "Phone Intelligence",
+    "valid": true,
+    "international": "+52 55 1234 5678",
+    "national": "(55) 1234-5678",
+    "country": "Mexico",
+    "location": "Ciudad de Mexico",
+    "carrier": "Telcel",
+    "line_type": "mobile",
+    "risk_level": "low",
+    "raw": {
+      "phone_number": "+525512345678",
+      "phone_format": {
+        "international": "+52 55 1234 5678",
+        "national": "(55) 1234-5678"
+      },
+      "phone_carrier": {
+        "name": "Telcel",
+        "line_type": "mobile",
+        "mcc": 334,
+        "mnc": 20
+      },
+      "phone_location": {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "country_prefix": "+52",
+        "region": "Ciudad de Mexico",
+        "city": "Ciudad de Mexico",
+        "timezone": "America/Mexico_City"
+      },
+      "phone_validation": {
+        "is_valid": true,
+        "line_status": "active",
+        "is_voip": false
+      },
+      "phone_risk": {
+        "risk_level": "low",
+        "is_disposable": false,
+        "is_abuse_detected": false
+      }
+    }
+  },
+  "numverify_data": {
+    "valid": true,
+    "local_format": "5512345678",
+    "international_format": "+525512345678",
+    "country": "Mexico",
+    "location": "Mexico City",
+    "carrier": "Telcel",
+    "line_type": "mobile",
+    "raw": {
+      "valid": true,
+      "local_format": "5512345678",
+      "international_format": "+525512345678",
+      "country_name": "Mexico",
+      "country_code": "MX",
+      "location": "Mexico City",
+      "carrier": "Telcel",
+      "line_type": "mobile"
+    }
+  },
+  "abstract_location": "Ciudad de Mexico",
+  "numverify_location": "Mexico City",
+  "abstract_carrier": "Telcel",
+  "numverify_carrier": "Telcel",
+  "abstract_line_type": "mobile",
+  "numverify_line_type": "mobile",
+  "consensus_city": "Ciudad de Mexico",
+  "consensus_confidence": 0.72,
+  "consensus_sources": [
+    "AbstractAPI",
+    "NumVerify"
+  ],
+  "all_votes": [
+    {
+      "city": "México",
+      "source": "phonenumbers",
+      "confidence": 0.6,
+      "extra": ""
+    },
+    {
+      "city": "Ciudad de Mexico",
+      "source": "AbstractAPI",
+      "confidence": 0.8,
+      "extra": ""
+    },
+    {
+      "city": "Mexico City",
+      "source": "NumVerify",
+      "confidence": 0.75,
+      "extra": ""
+    }
+  ],
+  "latitude": null,
+  "longitude": null,
+  "nominatim_address": "",
+  "opencage_latitude": null,
+  "opencage_longitude": null,
+  "opencage_address": "",
+  "shodan_ips": [],
+  "osint_links": {
+    "WhatsApp Web": "https://web.whatsapp.com/send?phone=526633227325",
+    "WhatsApp (wa.me)": "https://wa.me/526633227325",
+    "Facebook": "https://www.facebook.com/search/top/?q=526633227325",
+    "Twitter/X": "https://twitter.com/search?q=526633227325",
+    "TikTok": "https://www.tiktok.com/search?q=526633227325",
+    "Truecaller": "https://www.truecaller.com/search/mx/526633227325",
+    "Google (exacto)": "https://www.google.com/search?q=%22526633227325%22",
+    "Google dork FB": "https://www.google.com/search?q=site%3Afacebook.com%20526633227325",
+    "Google dork ML": "https://www.google.com/search?q=site%3Amercadolibre.com.mx%20526633227325",
+    "Paginas Blancas": "https://www.paginasblancas.com.mx/buscar/personas/6633227325",
+    "Formato E.164": "+526633227325"
+  },
+  "map_path": "",
+  "errors": [],
+  "scan_timestamp": "2026-06-23 13:13:57 UTC",
+  "scan_end_time": "2026-06-23 13:13:59 UTC",
+  "report_sha256": "44d8ded094c8b0284eff852935ca9dbea7b53344f2bbb1a5c9e167d1c1745430"
+}
