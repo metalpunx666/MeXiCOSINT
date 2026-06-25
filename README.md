@@ -17,15 +17,26 @@ Herramienta de OSINT para numeros telefonicos Mexicanos.
 
 ## Instalacion
 
-git clone https://github.com/metalpunx666/MeXiCOSINT.git
+git clone https://github.com/KiMiGuel/MeXiCOSINT.git
+
 cd MeXiCOSINT
+
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r requirements.txt
+
+## Ejecutar con launcher
+
+Después de instalar las dependencias, puedes ejecutar MeXiCOSINT con:
+
+```bash
+bash bin/mexicosint
 
 ## Uso
 
-python3 mexicosint_v2.2.5.py
+python3 bash bin/mexicosint
 
 ## Modulos
 
